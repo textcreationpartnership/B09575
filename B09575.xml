@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new balled called Trap, or, The young lass to the tune of, Traps delight, or, I know what I know.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09575</idno><idno type="EEBO-CITATION">62369497</idno>
+  <idno type="VID">188027</idno>
+  <idno type="EEBO-PROQUEST">2240867898</idno>
+  
+            <idno type="STC">Wing N557</idno>
+            <idno type="STC">ESTC R180881</idno>
+            <idno type="OCLC">62369497</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188027)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2853:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new balled called Trap, or, The young lass to the tune of, Traps delight, or, I know what I know.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.). : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere and J. Wright,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>[1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Verses in black letter, chorus lines in Roman.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:188027:1"/>
+            <pb facs="tcp:188027:2"/>
+            <head>A New Balled, called, TRAP, Or, The Young Lass.</head>
+            <opener>To the Tune of, <hi>Traps Delight:</hi> Or, <hi>I know what I know.</hi>
+            </opener>
+            <l>
+               <figure>
+                  <figDesc>woodcut: young woman framed by flowers</figDesc>
+               </figure>
+            </l>
+            <div n="1" type="part">
+               <lg>
+                  <l>I (A Young Lass,) have béen courted by many,</l>
+                  <l>Of all sorts and trades, as ever was any:</l>
+                  <l>A spruce Habberdasher did first speak me fair,</l>
+                  <l>But I would have nothing to do with small ware;</l>
+                  <l>
+                     <hi>My thing is my own, and I'le keep it so still,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet other young Lasses may do what they will.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Factor (that lately come out of the <hi>Straights,</hi>
+                  </l>
+                  <l>And brag'd of his Riches, and of his Sea-Freights)</l>
+                  <l>Had a mind to a Swop, or Bargain with me,</l>
+                  <l>But I would not barter my Commodity:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And table Captain (I ne'r saw the like)</l>
+                  <l>would fain have bin charging me with his half pike</l>
+                  <l>But I put him by, from doing the feat,</l>
+                  <l>And then my brave Captain did make a retreat.</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Sweet-sented Courtier did give me a Kiss,</l>
+                  <l>And promiss'd me Mountains if I would be his,</l>
+                  <l>But I'le not believe him, for it is too true,</l>
+                  <l>Some Courtiers do promise, much more then they do:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A fine man of Law, did come out of the <hi>Strand,</hi>
+                  </l>
+                  <l>To plead his own cause with a Fee in his hand;</l>
+                  <l>He made a brave motion, but that would not do</l>
+                  <l>For I did dismiss him, and <hi>Non-suit</hi> him too:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:188027:2"/>
+               <opener>The second Part, to the same Tune.</opener>
+               <lg>
+                  <l>NExt came a young fellow, (a Notable Spark)</l>
+                  <l>With gréen bag &amp; ink-born (a Iustices Clark)</l>
+                  <l>He pul'd out his Warrant to make all appear,</l>
+                  <l>But I sent him away with a flea in his ear:</l>
+                  <l>
+                     <hi>My thing is my own, and I'le keep it so still,</hi>
+                  </l>
+                  <l>
+                     <hi>Yet other young Lasses may do what they will.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Master of Musick came with an intent,</l>
+                  <l>To give me a Lesson on my Instrument;</l>
+                  <l>I thankt him for nothing, and bid him be gone,</l>
+                  <l>For my little Fiddle should not be plald on:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then came a <hi>French</hi> Doctor in with a good grace,</l>
+                  <l>And would have béen féeling my Pulse i'th wrong place;</l>
+                  <l>He talkt of a Glister, and then away stole,</l>
+                  <l>But he would have given it me at the wrong hole:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>An Vsurer came, with abundance of Cash,</l>
+                  <l>But I had no mind to come under his lash;</l>
+                  <l>He profferd me Iewels, and great store of Gold,</l>
+                  <l>But I would not morgage my little Frée-hold:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>An Old Fornicator full sixty and seav'n,</l>
+                  <l>That had not a hair left betwixt him &amp; heav'n;</l>
+                  <l>Would fain have béen fumbling one night in y<seg rend="sup">e</seg> dark</l>
+                  <l>But he had the same sauce as the Iustices Clark:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then came a trim Barber (a Notable Blade)</l>
+                  <l>Who knew well enough what belong'd to y<seg rend="sup">e</seg> trade;</l>
+                  <l>He would have been kissing, and clipping of me,</l>
+                  <l>But I had no mind to such Shavers as he:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A blunt Lieutenant surprized my Placket,</l>
+                  <l>And fiercely began to rifle, and sack it,</l>
+                  <l>I mustred my spirits up, and became bold,</l>
+                  <l>And forc'd my Lieutenant to quit his strong hold;</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A crafty young Bumpkin, that was very rich,</l>
+                  <l>And us'd with his Bargains to go thorough stich;</l>
+                  <l>Did tender a sum, but it would not avail,</l>
+                  <l>That I would admit him my Tenant in Tayl:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A fine dapper Taylor (with's yard in his hand)</l>
+                  <l>Did proffer his service to be at at command;</l>
+                  <l>He talk'd of a slit I had above my knee,</l>
+                  <l>But I'le have no Taylor stitch that up for me:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Gentleman that did talk much of his grounds,</l>
+                  <l>His horses, his setting-dogs, and his grey-hounds,</l>
+                  <l>Put in for a course, and he us'd all his art,</l>
+                  <l>But he mist of his sport, for <hi>Puss</hi> would not start:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A young Academick new come from the Schooles,</l>
+                  <l>(Who thinks other people all asses and fooles)</l>
+                  <l>Began to chop Logick, and gave me a Buss,</l>
+                  <l>But I put him quickly unto a <hi>Non plus:</hi>
+                  </l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A fine man of Art would have taught me to dance,</l>
+                  <l>(Who had béen in <hi>Flanders,</hi> as well as in <hi>France</hi>)</l>
+                  <l>A Iigg <hi>A-la-mode,</hi> that I never learn't yet,</l>
+                  <l>But I had no mind to dance after his Kit:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A pretty young Squire, new come to the Town,</l>
+                  <l>To empty his Pockets, and so to go down;</l>
+                  <l>Did proffer a kindness, but I would have none,</l>
+                  <l>The same that he us'd to do to his Maid <hi>Jone:</hi>
+                  </l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A brisk younger brother next entred the list,</l>
+                  <l>He came all in <hi>Querpo,</hi> and modishly kist,</l>
+                  <l>He sweetly did sing, and neatly did trip it,</l>
+                  <l>But could not prevail to turn up my Tippet:</l>
+                  <l>
+                     <hi>My thing is my own, &amp;c.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now here I could reckon a hundred and more,</l>
+                  <l>Besides all the Gamesters recited b<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fore;</l>
+                  <l>That made their addresses in hopes of a snap,</l>
+                  <l>But as young as I was, I understood <hi>TRAP:</hi>
+                  </l>
+                  <l>
+                     <hi>My thing is my own, and I'le keep it so still,</hi>
+                  </l>
+                  <l>
+                     <hi>Until I be marry'd, say men what they will.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Printed for</hi> F. Coles, T. Vere, <hi>and</hi> J. Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
